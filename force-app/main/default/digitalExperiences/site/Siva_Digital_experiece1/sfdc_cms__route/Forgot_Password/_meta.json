@@ -1,0 +1,6 @@
+{
+  "apiName" : "Forgot_Password",
+  "type" : "sfdc_cms__route",
+  "path" : "routes",
+  "contentKey" : "MCASR4VJNR7ZFQVHO7EISFCW3FMY"
+}
