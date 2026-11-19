@@ -27,6 +27,21 @@
               "definition" : "community_builder:htmlEditor",
               "id" : "98710b3a-ce65-4a12-a393-08811759c2bb",
               "type" : "component"
+            }, {
+              "attributes" : {
+                "backgroundColor" : "",
+                "isLinkable" : false,
+                "linkAssistiveText" : "",
+                "paddingHorizontal" : "none",
+                "paddingVertical" : "none",
+                "text" : "Your text",
+                "textAlign" : "left",
+                "textDecoration" : "{}",
+                "textDisplayInfo" : "{\"headingTag\":\"h3\",\"textStyle\":\"heading-medium\"}"
+              },
+              "definition" : "dxp_base:textBlock",
+              "id" : "d4fe1939-c9a7-4b04-b902-fa995d1db17c",
+              "type" : "component"
             } ],
             "id" : "eff95982-4662-4841-8d77-02a3e1c5dc15",
             "name" : "col1",
