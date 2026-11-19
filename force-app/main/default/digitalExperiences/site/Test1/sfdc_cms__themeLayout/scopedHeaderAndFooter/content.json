@@ -24,6 +24,18 @@
             "sectionVerticalAlign" : "flex-start"
           },
           "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "alignment" : "center",
+                "size" : "standard",
+                "stretch" : "standard",
+                "text" : "Button",
+                "type" : "primary"
+              },
+              "definition" : "dxp_base:button",
+              "id" : "e1515175-674f-45f2-8dc4-8c49a2829e1d",
+              "type" : "component"
+            } ],
             "id" : "b5421ed3-53fa-4a6f-a83e-93eb57bf17ed",
             "name" : "headerSection",
             "title" : "Theme Header",
